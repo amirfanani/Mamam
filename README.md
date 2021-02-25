@@ -1,6 +1,4 @@
-# day_3_ms
-
-A new Flutter project.
+# Aplikasi Resep Makanan dengan Flutter
 
 ## Getting Started
 
